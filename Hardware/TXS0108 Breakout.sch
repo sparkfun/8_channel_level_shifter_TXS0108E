@@ -10814,7 +10814,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="35.56" y1="124.46" x2="96.52" y2="124.46" width="0.2032" layer="97"/>
 <wire x1="96.52" y1="124.46" x2="96.52" y2="132.08" width="0.2032" layer="97"/>
 <text x="166.624" y="11.43" size="2.54" layer="94" font="vector">Dryw Wade</text>
-<text x="239.268" y="7.366" size="2.54" layer="94" font="vector">v01</text>
+<text x="239.268" y="7.366" size="2.54" layer="94" font="vector">v10</text>
 </plain>
 <instances>
 <instance part="C1" gate="G$1" x="180.34" y="147.32" smashed="yes">
