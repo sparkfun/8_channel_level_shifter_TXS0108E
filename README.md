@@ -16,7 +16,7 @@ Repository Contents
 Documentation
 -------------
 
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/8-channel-level-shifter-breakout---txs01018e-hookup-guide)** - A basic Hookup Guide to get started with the SparkFun Level Shifter - 8 Channel (TXS01018E).
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/level-shifter---8-channel-txs0108e-hookup-guide)** - A basic Hookup Guide to get started with the SparkFun Level Shifter - 8 Channel (TXS01018E).
 
 Product Versions
 ----------------
